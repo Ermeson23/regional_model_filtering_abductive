@@ -14,3 +14,9 @@ O fluxo de trabalho do framework é dividido em três pilares fundamentais:
 1. **Linha de base de desempenho preditivo (Modelo mestre):** Treinamento de um classificador de alta performance (*XGBoost*).
 2. **Destilação de conhecimento (Modelo estudante):** Destilação do comportamento do *Mestre* para um *aluno* (uma *Árvore de Decisão rasa*), que atua como um particionador do espaço de *features* e filtro de ruído, alcançando **80.22% de fidelidade**.
 3. **Busca da Explicação Abdutiva:** Aplicação de um algoritmo *greedy backward-elimination* sobre o modelo destilado para encontrar o **Subconjunto suficiente mínimo** (*Prime Implicant*), isolando apenas as predições críticas para uma instância local.
+
+## 🎥 Apresentação do Projeto
+
+Assista à apresentação no YouTube:
+
+[Clique aqui para assistir](https://youtu.be/J5cbtPrFi5w?si=MQf7H4jeVB_WlWGy)

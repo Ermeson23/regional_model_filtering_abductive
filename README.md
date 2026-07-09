@@ -19,4 +19,6 @@ O fluxo de trabalho do framework é dividido em três pilares fundamentais:
 
 Assista à apresentação no YouTube:
 
-[Clique aqui para assistir](https://youtu.be/J5cbtPrFi5w?si=MQf7H4jeVB_WlWGy)
+[Clique aqui para assistir à apresentação 1](https://youtu.be/J5cbtPrFi5w?si=MQf7H4jeVB_WlWGy)
+
+[Clique aqui para assistir à apresentação 2](https://youtu.be/Ys-9ZApnitk)
